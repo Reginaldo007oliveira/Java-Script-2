@@ -3,7 +3,7 @@
 Vamos criar um sistema que armazena informações de livros .
 
 
-> Passo a passo:
+> Passo a passo:  
 1) Vamos criar uma pasta e seguir os passos abaixo:
 Passo 1: npm init -y
 
@@ -11,7 +11,7 @@ Passo 2: npm i --save readline-sync
 
 Passo 3: crie o script de start
 
-Passo 4: criar .gitignore
+Passo 4: criar .gitignore s
 
 Passo 5: criar um arquivo que simula uma database, com um array de objetos, não esquecer de exportar
 
